@@ -4,6 +4,8 @@ import HeroSection from "./Components/HeroSection";
 import Features from "./Components/Features";
 import TrendingGames from "./Components/TrendingGames";
 import MostPlayed from "./Components/MostPlayed";
+import Categories from "./Components/Categories";
+import CtaBanner from "./Components/CtaBanner";
 import {
   featuresData,
   trendingGames,
