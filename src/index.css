@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-lugx-blue: #0171f8;
+  --color-lugx-dark-blue: #0056d2;
+  --color-lugx-pink: #ee626b;
+  --color-lugx-dark: #1e1e1e;
+  --font-sans: "Poppins", sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}
