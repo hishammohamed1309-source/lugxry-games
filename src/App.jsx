@@ -1,12 +1,9 @@
 import { useState } from 'react';
-import Navbar from './components/Navbar';
-import HeroSection from './components/HeroSection';
-import Features from './components/Features';
-import TrendingGames from './components/TrendingGames';
-import MostPlayed from './components/MostPlayed';
-import Categories from './components/Categories';
-import CtaBanner from './components/CtaBanner';
-import Footer from './components/Footer';
+import Navbar from "./Components/Navbar";
+import HeroSection from "./Components/HeroSection";
+import Features from "./Components/Features";
+import TrendingGames from "./Components/TrendingGames";
+import MostPlayed from "./Components/MostPlayed";
 import {
   featuresData,
   trendingGames,
