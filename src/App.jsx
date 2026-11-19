@@ -6,6 +6,7 @@ import TrendingGames from "./Components/TrendingGames";
 import MostPlayed from "./Components/MostPlayed";
 import Categories from "./Components/Categories";
 import CtaBanner from "./Components/CtaBanner";
+import Footer from "./Components/Footer";
 import {
   featuresData,
   trendingGames,
